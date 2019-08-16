@@ -1,0 +1,23 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+node_modules
+
+data/
+# Ignore files related to API keys
+.env
+
+# Ignore _pycache_
+__pycache__/
+
+# Ignore .vscode
+.vscode/
+
+# Ignore .xvz
+*.xyz
+
+# Ignore .mat files
+*.mat
+
+*pickle*
