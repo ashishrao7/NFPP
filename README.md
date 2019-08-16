@@ -4,12 +4,22 @@ This repository contains implementation of the Phase of Events method proposed b
 
 The data in the experiments folder have been collected from a DAVIS346 Camera. The  <a href="https://github.com/uzh-rpg/rpg_dvs_ros">drivers </a> developed by the robotics and perception group were used to collect data from the DAVIS. 
 
-An object is placed on a platform and a moving light source generated in `generator.py` is made to fall on the object. The videos folder contains different patterns used with the light source generated using the generator file.
+An object is placed on a platform and a moving light source generated in `generator.py` is made to fall on the object. The videos folder contains different patterns used with the light source generated using the generator file. Some examples of Patterns are shown below.
 
+<table style="width:100%">
+    <tr>
+        <td style="text-align:center"><img src="images/fringe_10hz.png" style="width:346px;height:260x;"> </td>
+        <td style="text-align:center"><img src="images/fringe_20hz.png" style="width:346px;height:260px;"> </td>
+    </tr>
+</table>
+
+# Procedure
 The event camera, placed in a stereo configuration with the <a href="http://www.ti.com/tool/DLPLCR4500EVM">light projector</a> ,records the Wrapped phase of the incident light. The phase is then unwrapped and triangulated to get depth maps.
 
+Before starting the execution, please download the data from this  <a href="https://drive.google.com/file/d/10wNYiEY9SXlroxRd_atbgKjzQP4M-UfF/view?usp=sharing">link</a>
 
-To run the files execute with the following commands
+
+Once you have downloaded files from the above link, and extracted them to a folder called `data`, to run the files execute with the following commands
 
 `python correlate_and_phase.py`
 
@@ -26,9 +36,9 @@ The depth maps obtained are as follows
 
 <table style="width:100%">
     <tr>
-        <td style="text-align:center"><img src="images/bright_scrnshots/ball.png"> </td>
-        <td style="text-align:center"><img src="images/bright_scrnshots/hand.png"> </td>
-        <td style="text-align:center"><img src="images/bright_scrnshots/swan.png"> </td>
+        <td style="text-align:center"><img src="images/bright_scrnshots/ball.png" style="width:346px;height:260x;"> </td>
+        <td style="text-align:center"><img src="images/bright_scrnshots/hand.png" style="width:346px;height:260x;"> </td>
+        <td style="text-align:center"><img src="images/bright_scrnshots/swan.png" style="width:346px;height:260x;"> </td>
     </tr>
 </table>
 
