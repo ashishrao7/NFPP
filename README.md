@@ -19,7 +19,7 @@ The event camera, placed in a stereo configuration with the <a href="http://www.
 Before starting the execution, please download the data from this  <a href="https://drive.google.com/file/d/10wNYiEY9SXlroxRd_atbgKjzQP4M-UfF/view?usp=sharing">link</a>
 
 
-Once you have downloaded files from the above link, and extracted them to a folder called `data`, to run the files execute with the following commands
+Once you have downloaded files from the above link, and extracted them to a folder called `data`, to run the files execute with the following commands to execute the code
 
 `python correlate_and_phase.py`
 
