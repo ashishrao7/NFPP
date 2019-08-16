@@ -38,7 +38,7 @@ The depth maps obtained are as follows
     <tr>
         <td style="text-align:center"><img src="images/bright_scrnshots/ball.png" style="width:346px;height:260x;"> </td>
         <td style="text-align:center"><img src="images/bright_scrnshots/hand.png" style="width:346px;height:260x;"> </td>
-        <td style="text-align:center"><img src="images/bright_scrnshots/swan.png" style="width:346px;height:260x;"> </td>
+        <td style="text-align:center"><img src="images/bright_scrnshots/Swan.png" style="width:346px;height:260x;"> </td>
     </tr>
 </table>
 
