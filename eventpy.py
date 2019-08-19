@@ -143,7 +143,7 @@ def compute_phase_change(event, ref_time, P_signal):
 @timing
 def dict_single_pixel_events(events, pixel_location):
   '''
-    Compute and plot the firing rate of a particular pixel for a time interval defined by del_t. The pixel under observation is defined by the pixel_location. 
+    Compute the firing rate of a particular pixel for a time interval defined by del_t. The pixel under observation is defined by the pixel_location. 
 
     Parameters:
     -----------
