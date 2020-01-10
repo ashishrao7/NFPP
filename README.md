@@ -1,6 +1,6 @@
 # Neuromorphic Fringe Projection Profilometry
 
-This repository contains implementation of Neuromorphic Fringe Projection Profilometry method proposed by <a href="http://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2015/04/dvs_031.pdf"> Rao Mangalore et. al</a>. 
+This repository contains implementation of Neuromorphic Fringe Projection Profilometry method proposed by <a href=""> Rao Mangalore et. al</a>. 
 
 The data in the experiments folder have been collected from a DAVIS346 Camera. The  <a href="https://github.com/uzh-rpg/rpg_dvs_ros">drivers </a> developed by the robotics and perception group were used to collect data from the DAVIS. 
 
