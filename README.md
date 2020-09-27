@@ -16,7 +16,7 @@ An object is placed on a platform and a moving light source generated in `genera
 # Procedure
 The event camera, placed in a stereo configuration with the <a href="http://www.ti.com/tool/DLPLCR4500EVM">light projector</a> ,records the Wrapped phase of the incident light. The phase is then unwrapped and triangulated to get depth maps.
 
-Before starting the execution, please download the data from this  <a href="https://drive.google.com/file/d/10wNYiEY9SXlroxRd_atbgKjzQP4M-UfF/view?usp=sharing">link</a>
+Before starting the execution, please download the data from this  <a href="https://drive.google.com/drive/folders/1DChe45OtZhLeuBitztfafJeo-j0zl9eQ?usp=sharing">link</a>
 
 
 Once you have downloaded files from the above link and extracted them to a folder called `data/`, run the files execute with the following commands: 
@@ -49,3 +49,17 @@ Below are the links to different types of Event Cameras,
 1. <a href="http://inivation.com/"> DAVIS </a>
 
 2. <a href="https://www.prophesee.ai/"> ATIS </a>
+
+## Citation
+A. R. Mangalore, C. S. Seelamantula and C. S. Thakur, "Neuromorphic Fringe Projection Profilometry," in IEEE Signal Processing Letters, vol. 27, pp. 1510-1514, 2020, doi: 10.1109/LSP.2020.3016251. 
+>
+
+    @ARTICLE{mangalore2020nfpp,
+    author={A. R. {Mangalore} and C. S. {Seelamantula} and C. S. {Thakur}},
+    journal={IEEE Signal Processing Letters}, 
+    title={Neuromorphic Fringe Projection Profilometry}, 
+    year={2020},
+    volume={27},
+    pages={1510-1514},}
+
+<h4 align="center">Published in <i>Signal Processing Letters</i> <a href="https://ieeexplore.ieee.org/abstract/document/9166707">10.1109/LSP.2020.3016251</a></h4>
