@@ -1,6 +1,6 @@
 # Neuromorphic Fringe Projection Profilometry
 
-This repository contains implementation of Neuromorphic Fringe Projection Profilometry method proposed by <a href=""> Rao Mangalore et. al</a>. 
+This repository contains implementation of Neuromorphic Fringe Projection Profilometry method proposed by <a href="https://ieeexplore.ieee.org/abstract/document/9166707"> Rao Mangalore et. al</a>. 
 
 The data in the experiments folder have been collected from a DAVIS346 Camera. The  <a href="https://github.com/uzh-rpg/rpg_dvs_ros">drivers </a> developed by the robotics and perception group were used to collect data from the DAVIS. 
 
@@ -51,7 +51,10 @@ Below are the links to different types of Event Cameras,
 2. <a href="https://www.prophesee.ai/"> ATIS </a>
 
 ## Citation
+If you happen to use this repository in your work or research please cite it as follows:
+
 A. R. Mangalore, C. S. Seelamantula and C. S. Thakur, "Neuromorphic Fringe Projection Profilometry," in IEEE Signal Processing Letters, vol. 27, pp. 1510-1514, 2020, doi: 10.1109/LSP.2020.3016251. 
+
 >
 
     @ARTICLE{mangalore2020nfpp,
