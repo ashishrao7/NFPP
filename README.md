@@ -42,6 +42,14 @@ The depth maps obtained are as follows
     </tr>
 </table>
 
+The meshes look as shown below
+<table style="width:100%">
+    <tr>
+        <td style="text-align:center"><img src="images/3d_ball.png" style="width:346px;height:260x;"> </td>
+        <td style="text-align:center"><img src="images/3d_hand.png" style="width:346px;height:260x;"> </td>
+        <td style="text-align:center"><img src="images/3d_swan.png" style="width:346px;height:260x;"> </td>
+    </tr>
+</table>
 To understand how events occur in an event based camera, please watch the video at this <a href="https://www.youtube.com/watch?v=kPCZESVfHoQ">link.</a>
 
 Below are the links to different types of Event Cameras,
