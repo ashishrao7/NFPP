@@ -1,6 +1,6 @@
 # Neuromorphic Fringe Projection Profilometry
 
-This repository contains implementation of Neuromorphic Fringe Projection Profilometry method proposed by <a href="https://ieeexplore.ieee.org/abstract/document/9166707"> Rao Mangalore et. al</a>. 
+This repository contains implementation of Neuromorphic Fringe Projection Profilometry (NFPP) method proposed by <a href="https://ieeexplore.ieee.org/abstract/document/9166707"> Rao Mangalore et. al</a>. 
 
 The data in the experiments folder have been collected from a DAVIS346 Camera. The  <a href="https://github.com/uzh-rpg/rpg_dvs_ros">drivers </a> developed by the robotics and perception group were used to collect data from the DAVIS. 
 
